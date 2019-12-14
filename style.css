@@ -1,0 +1,21 @@
+body {
+  font-family: "Open Sans", helvetica, arial, sans-serif;
+  margin: 3vw;
+}
+
+h1 {
+  color: #4E92DF;
+}
+
+h2 {
+  color: green;
+}
+p {
+  color: purple;
+}
+ul{
+  color: blue;
+}
+img{
+  height:250px;
+}
